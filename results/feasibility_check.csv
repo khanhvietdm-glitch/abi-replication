@@ -1,0 +1,9 @@
+quantity,value
+r_f + pi_H * phi (lower band),0.030400000000000003
+m (baseline),0.045
+r_f + pi_L * phi (upper band),0.0616
+m in feasible band,1.0
+phi_min (Theorem 2),0.07812499999999999
+phi (baseline),0.13
+phi_max (Theorem 2),0.31249999999999994
+phi in feasible interval,1.0
